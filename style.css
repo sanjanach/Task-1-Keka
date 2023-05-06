@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+}
+
+.page-header{
+    background-color: rgb(51,153,204);
+    height: 88px;
+}
+
+.page-title{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    padding: 20px 0px 33px 20px;
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+}
+
+.navbar{
+    background-color: rgb(51,51,51);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    height: 28px;
+}
+
+.nav-list{
+    margin: 0;
+    text-transform: uppercase;
+    padding: 4px 14px;
+}
+
+.nav-list-item{
+    display: inline;
+}
+
+.nav-list-item a{
+    color: white;
+    text-decoration: none;
+    padding: 1px 9px;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+.blog-icon{
+    position: relative;
+    float: right;
+    padding-top: 0;
+    margin-top: 0px;
+}
+
+.page-info{
+    margin: 18px 920px 0px 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(173, 167, 167);
+    width: 575px;
+}
+
+.page-info, .page-info-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.page-info-title{
+    padding-left: 10px;
+    font-size: 16px;
+    padding-top: 0px;
+    text-transform: uppercase;
+    margin-top: 7px;
+    margin-left: 2px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.page-info-list{
+    margin-top: 7px;
+    font-size: 11px; 
+    font-weight: 500;
+    padding-left: 22px;
+    list-style-type: '-';
+    margin-bottom: 2px;
+
+}
+
+.page-info-list-item{
+    padding-left: 5px;
+    padding-bottom: 14px;
+
+}
+
+.page-content-txt-2{
+    margin-right: 20px;
+    font-size: 12px;
+
+}
+
+.page-content{
+    margin: 20px 590px 0px 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.page-content-title{
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.page-content-txt{
+    font-size: 12px;
+    margin-top: 8px;
+}
